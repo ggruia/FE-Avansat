@@ -7,7 +7,7 @@ An Association comprises 3 main components:
 - Commitees
 - Members
 each with their own policies and roles.
-Each Commitee can create and alter Events, that every Member of that 
+Each Commitee can create and alter Events, that every Member of that association can join.
 
 
 ## Implementation
